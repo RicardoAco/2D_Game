@@ -1,0 +1,436 @@
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\Content\Jumper.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\Content\Tile.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\Content\Jumper.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\Content\Tile.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\Jumper.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\Tile.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\Tile.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\idle_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\idle_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball - kopie - kopie - kopie\dragonball\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\idle_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\idle_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\Tile.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\dbz_background.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\grass_collision.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\grass_up.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_V20\dragonball\bin\Windows\x86\Debug\Content\collision_left_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\collision_left_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\dbz_background.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\grass_collision.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\grass_up.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\idle_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\idle_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\grass_block.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\jump_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\jump_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\9_blockrow.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\7_blockrow.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\18_blockrow.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\buu_enemy.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\buu_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\buu_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.application
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\obj\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\obj\x86\Debug\dragonball.application
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\rooshi.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\exit.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\1819\GAME DEVELOPMENT\MyGame\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\start.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\18_blockrow.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\7_blockrow.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\9_blockrow.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\buu_enemy.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\buu_left.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\buu_right.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\collision_left_right.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\dbz_background.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\exit.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\grass_block.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\grass_collision.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\grass_up.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\idle_left.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\idle_right.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\jump_left.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\jump_right.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\rooshi.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\start.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.application
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\obj\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\obj\x86\Debug\dragonball.application
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\Desktop\game\dragonball_21\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\18_blockrow.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\7_blockrow.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\9_blockrow.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_enemy.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_left.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_right.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\collision_left_right.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\dbz_background.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\exit.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_block.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_collision.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_up.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\idle_left.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\idle_right.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\jump_left.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\jump_right.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\rooshi.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\start.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.application
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.application
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\Desktop\game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.pdb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\18_blockrow.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\7_blockrow.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\9_blockrow.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_enemy.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_left.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_right.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\collision_left_right.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\dbz_background.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\exit.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_block.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_collision.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_up.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\idle_left.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\idle_right.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\jump_left.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\jump_right.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\menu.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\rooshi.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\start.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.exe.manifest
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.application
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.exe
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.exe.manifest
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.application
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.exe
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.pdb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_small.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_smaller.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_block.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_block_high.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\shoot_right.xnb
+D:\DOWNLOADS\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\shoot_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\18_blockrow.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\7_blockrow.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\9_blockrow.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_enemy.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\buu_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\collision_left_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\dbz_background.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_block.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_collision.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\grass_up.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_block.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_block_high.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_small.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\ground_dirt_smaller.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\idle_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\idle_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\jump_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\jump_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\rooshi.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\shoot_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\shoot_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\walking_left.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\walking_right.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.application
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.exe.manifest
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.application
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.csproj.CopyComplete
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.exe
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\obj\x86\Debug\dragonball.pdb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\red_dot.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\energy_ball.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\energy.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\endMenu.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\game_music.wma
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\game_music.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\vegeta_charge.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_10.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_1.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_2.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_3.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_4.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_5.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_6.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_7.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_8.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_9.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\health_bar_0.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\energy_blue.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\vegeta_standing.xnb
+C:\Users\LAPTOP\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Ricardo_Aangepast_Game\Ricardo_Aangepast_Game\dragonball\bin\Windows\x86\Debug\Content\weakling.xnb

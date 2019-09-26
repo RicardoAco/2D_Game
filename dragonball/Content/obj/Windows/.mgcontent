@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/idle_left.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/idle_right.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/walking_left.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/walking_right.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/dbz_background.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/grass_up.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/grass_collision.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/collision_left_right.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/grass_block.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/jump_left.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/jump_right.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/9_blockrow.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/7_blockrow.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/18_blockrow.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/buu_enemy.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/buu_right.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/buu_left.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/rooshi.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/Fonts/Arial.spritefont</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/ground_dirt_small.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/ground_dirt_smaller.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/ground_dirt_block.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/ground_dirt_block_high.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/shoot_right.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/shoot_left.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/red_dot.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/energy.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/endMenu.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/menu.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/game_music.mp3</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_10.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_1.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_2.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_3.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_4.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_5.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_6.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_7.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_8.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_9.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/health_bar_0.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/energy_blue.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/vegeta_charge.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/vegeta_standing.png</File>
+    <File>C:/Users/LAPTOP/OneDrive - Artesis Plantijn Hogeschool Antwerpen/Ricardo_Aangepast_Game/Ricardo_Aangepast_Game/dragonball/Content/weakling.png</File>
+  </SourceFiles>
+</SourceFileCollection>
